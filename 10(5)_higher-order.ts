@@ -16,4 +16,4 @@ const divide = (x: number, y: number): number => x / y
 console.log(applyOperation(10, 5, add)) // 15
 console.log(applyOperation(10, 5, subtract)) // 5
 console.log(applyOperation(10, 5, multiply)) // 50
-console.log(applyOperation(10, 5, divide)) // 2
+console.log(applyOperation(10, 5, divide)) // 2mk
